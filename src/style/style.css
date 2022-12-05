@@ -1,0 +1,20 @@
+.color {
+  background-color: rgb(177, 105, 245);
+  color: #fff;
+}
+
+.nextColor {
+  background-color: rgb(245, 196, 105);
+  color: #fff;
+}
+
+.zoom {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+  margin-bottom: 50px;
+}
+
+.reduce {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
